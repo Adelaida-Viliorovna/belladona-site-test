@@ -18,7 +18,7 @@ function App() {
             <p>Branding and Design Studio</p>
           </div>
           <div className="hero-image">
-            <img src={heroImg} alt="Hero" />
+            {/* <img src={heroImg} alt="Hero" /> */}
           </div>
         </div>
       </main>
